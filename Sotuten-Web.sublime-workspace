@@ -1,0 +1,1193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"keyselected"
+			],
+			[
+				"calender",
+				"calender-f"
+			],
+			[
+				"the_",
+				"the_id	(page-event.php)"
+			],
+			[
+				"get",
+				"get_field"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"the_c",
+				"the_content"
+			],
+			[
+				"post",
+				"post_list"
+			],
+			[
+				"theme",
+				"themeFolderUrl"
+			],
+			[
+				"is",
+				"is_home	(header.php)"
+			],
+			[
+				"have_",
+				"have_posts"
+			],
+			[
+				"have",
+				"https_local_ssl_verify"
+			],
+			[
+				"isho",
+				"is_home"
+			],
+			[
+				"e",
+				"evdate"
+			],
+			[
+				"ev",
+				"evyear"
+			],
+			[
+				"Le",
+				"leftdays"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_script"
+			],
+			[
+				"wp",
+				"wp_enqueue	WordPress Enqueue Script"
+			],
+			[
+				"get_h",
+				"get_header"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"POS",
+				"_POST"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"indexTop",
+				"indexTop_logo"
+			],
+			[
+				"my",
+				"mysqli_query"
+			],
+			[
+				"a",
+				"alert	(app_export.js)"
+			],
+			[
+				"logoA",
+				"logoApp_h2	(send.php)"
+			],
+			[
+				"compa",
+				"company_about	(relatedlinks.html)"
+			],
+			[
+				"fl",
+				"fl-n	float: none;"
+			],
+			[
+				"concept",
+				"concept_img"
+			],
+			[
+				"conce",
+				"concept_text"
+			],
+			[
+				"c",
+				"concept"
+			],
+			[
+				"d",
+				"directory"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"logoapp_s",
+				"logoapp_sample"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"header",
+				"header_logo"
+			],
+			[
+				"header_",
+				"header_logoImage"
+			],
+			[
+				"footer_",
+				"footer_inner	(index.html)"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"logoApp_e",
+				"logoApp_exampleImage	(index.html)"
+			],
+			[
+				"event_",
+				"event_info"
+			],
+			[
+				"as",
+				"aspect34"
+			],
+			[
+				"mail",
+				"mail.php"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"rec",
+				"recruit_info"
+			],
+			[
+				"logo",
+				"logoApp_link	(index.html)"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"info_table",
+				"info_tableMap	(index.html)"
+			],
+			[
+				"about_int",
+				"about_introTitle	(index.html)"
+			],
+			[
+				"abou",
+				"about_kids	(index.html)"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"header_news",
+				"header_newsLogo	(index.html)"
+			],
+			[
+				"sns",
+				"sns_facebook-logo.png	w:640 h:640"
+			],
+			[
+				"footer",
+				"footer_text	(index.html)"
+			],
+			[
+				"contact",
+				"contact_button	(index.html)"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"contact_in",
+				"contact_inputForm	(index.html)"
+			],
+			[
+				"contact_",
+				"contact_inner	(index.html)"
+			],
+			[
+				"fr",
+				"fl-r	float: right;"
+			],
+			[
+				"s",
+				"sns_facebook.png	w:122 h:30"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"ai",
+				"access_air.png	w:30 h:30"
+			],
+			[
+				"info_a",
+				"info_accessTable	(index.html)"
+			],
+			[
+				"info",
+				"info_table	(index.html)"
+			],
+			[
+				"inf",
+				"info_table"
+			],
+			[
+				"about_",
+				"about_column"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"event",
+				"event_intro	(index.html)"
+			],
+			[
+				"eve",
+				"event_info	(index.html)"
+			],
+			[
+				"f",
+				"future_contents_1.png	w:400 h:225"
+			],
+			[
+				"k",
+				"kids_contents_1.png	w:400 h:225"
+			],
+			[
+				"about",
+				"about_info	(index.html)"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"header_button",
+				"header_buttonImage	(index.html)"
+			],
+			[
+				"ml",
+				"ml-a	margin-left: auto;"
+			],
+			[
+				"header_bu",
+				"header_button	(index.html)"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
+			],
+			[
+				"php",
+				"php	(chk-db.php)"
+			],
+			[
+				"res",
+				"result_rand"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"mys",
+				"mysqli_"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"icon",
+				"icon2"
+			],
+			[
+				"sta",
+				"stage"
+			],
+			[
+				"pos-",
+				"pos-f	position: fixed;"
+			],
+			[
+				"kouen",
+				"kouen1"
+			],
+			[
+				"ko",
+				"kouen1"
+			],
+			[
+				"kou",
+				"kouen2	(index.html)"
+			],
+			[
+				"koen",
+				"kouen1	(index.html)"
+			],
+			[
+				"sc",
+				"sche9"
+			],
+			[
+				"30m",
+				"30m/射撃"
+			],
+			[
+				"半径",
+				"半径3mの空間/5"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sa",
+				"sakaR_b1.jpg	w:1000 h:562"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"rot",
+				"rotateX	rotateX"
+			],
+			[
+				"rotate",
+				"rotateX	rotateX"
+			],
+			[
+				"rad",
+				"radians"
+			],
+			[
+				"dra",
+				"drawfinger"
+			],
+			[
+				"dr",
+				"drawfinger"
+			],
+			[
+				"draw",
+				"draw4fingers"
+			],
+			[
+				"siZ",
+				"sizeY"
+			],
+			[
+				"bac",
+				"background	background grey"
+			],
+			[
+				"printl",
+				"println	println text"
+			],
+			[
+				"ch",
+				"checkCollision"
+			],
+			[
+				"an",
+				"angle_B"
+			],
+			[
+				"ang",
+				"angle_A"
+			],
+			[
+				"rS",
+				"rSpeed_A"
+			],
+			[
+				"mouse",
+				"mouse	mouseX"
+			],
+			[
+				"l",
+				"logo-Anim.gif	w:857 h:502"
+			],
+			[
+				"set",
+				"setup	setup"
+			],
+			[
+				"setu",
+				"setup	setup OpenGL"
+			],
+			[
+				"lo",
+				"lowest_n"
+			],
+			[
+				"searc",
+				"searchType"
+			],
+			[
+				"g",
+				"genre	(search_request.php)"
+			],
+			[
+				"sear",
+				"search	(search_request.php)"
+			],
+			[
+				"look",
+				"lookup_t"
+			],
+			[
+				"la",
+				"labelling"
+			],
+			[
+				"lookup_",
+				"lookup_sub"
+			],
+			[
+				"loo",
+				"lookup_sub"
+			],
+			[
+				"y",
+				"y-1"
+			],
+			[
+				"arra",
+				"arraylist	ArrayList"
+			],
+			[
+				"bi",
+				"binarization"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/latex.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"v",
+				"View In Browser"
+			],
+			[
+				"calc",
+				"Calculate"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wordpress",
+				"Snippet: WordPress File Header"
+			],
+			[
+				"prev",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"word",
+				"Snippet: WordPress File Header"
+			],
+			[
+				"pv",
+				"Project: Save As"
+			],
+			[
+				"b",
+				"Bookmarks: Toggle"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"bro",
+				"View In Browser"
+			],
+			[
+				"cv",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"sub",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"open",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"br",
+				"View In Browser"
+			],
+			[
+				"om",
+				"OmniMarkupPreviewer: Empty Cache"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"vie",
+				"View In Browser"
+			],
+			[
+				"t",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"swif",
+				"Set Syntax: Swift"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"op",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"o",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"p",
+				"Preferences: Settings - User"
+			],
+			[
+				"OP",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"OPE",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"ope",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"SUB",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/index.html",
+		"/Users/by_sK/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/state/_main.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/base/_util.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/js/WebAudioApiApi2.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/layout/_main.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/js/KeyFunction.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/js/WebAudioApiApi.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/js/playSound.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/style.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/module/_main.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/base/_reset.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/OCSS.sublime-workspace",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/state/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/module/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/base/_util.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/layout/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/css/module/_tool.scss",
+		"/Users/by_sK/Works/Research-Paper/インタラクション2016/interaction2016.tex",
+		"/Users/by_sK/Works/Research-Paper/インタラクション2016.txt",
+		"/Users/by_sK/Works/Research-Paper/int2017paper/LaTeX/UTF8/tech-jsample.tex",
+		"/Users/by_sK/Library/Application Support/Sublime Text 2/Packages/User/latex.sublime-build",
+		"/Users/by_sK/Works/Research-Paper/実行メモ.txt",
+		"/Users/by_sK/Downloads/int2017paper/LaTeX/UTF8/tech-jsample.tex",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_confirm-sp.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_comp-sp.php",
+		"/Users/by_sK/Desktop/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/js/imageview.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/css/layout/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/css/module/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/css/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_confirm-sp.ejs",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/header-news.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/header-upcommingEvent.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_confirm.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_comp.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_subscript-sp.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_confirm.ejs",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/header-nav.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-contact-sp.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event_subscript.php",
+		"/Users/by_sK/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/by_sK/Works/Sublime_project/msite_wp_theme.sublime-project",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/archive-news.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/header.php",
+		"/Users/by_sK/Downloads/aircrack-ng-1.2-rc4/Makefile",
+		"/Users/by_sK/Downloads/aircrack-ng-1.2-rc4/README",
+		"/Users/by_sK/Downloads/aircrack-ng-1.2-rc4/INSTALLING",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page-event.ejs",
+		"/Applications/Adobe InDesign CC 2017/Resources/CEP/extensions/HTMLPosterGenerator/node_modules/lodash/fp/lowerFirst.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/js/countdown.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/send_event.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/HMP.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/event.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/access.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/confirm_event.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/event_subscript.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/notice.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/css/layout/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/FCH.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/KPH.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/css/module/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/event_subscript.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/イベント関係php動作メモ.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/event_finished.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/js/countdown.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/header-top.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/js/jquery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/logoapp/dot_index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/Msite_wp_theme/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/miraikan01/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/miraikan01/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress-practice/wp-content/themes/miraikan01/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wp-toin/wp-content/themes/miraikan01/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wp-toin/wp-content/themes/miraikan01/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wp-toin/wp-content/themes/miraikan01/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wp-toin/wp-content/themes/miraikan01/event.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wp-toin/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/send_contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/confirm_contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/drupal-practice/themes/Msite1/page.tpl.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/drupal-practice/themes/Msite1/node--events-node.tpl.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/drupal-practice/themes/garland/node.tpl.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/drupal-practice/themes/Msite1/node-events-node.tpl.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/drupal-practice/themes/Msite1/node.tpl.php.dec",
+		"/Applications/XAMPP/xamppfiles/htdocs/drupal-practice/themes/Msite1/msite1.info",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/concept.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/confirm_contact.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/confirm_event.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/contact.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/event_archive.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/FAQ.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/member.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/recieve_contact.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/recieve_join.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/recruit.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/relatedlinks.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/sitemap.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/sitepolicy.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/sandpit.html",
+		"/Users/by_sK/Downloads/logoappexport_20161014/export.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/js/common_data.js",
+		"/Users/by_sK/Downloads/logoappexport_20161013/export_dot.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/test.php",
+		"/Users/by_sK/Downloads/logoappexport_20160930/js/app_export.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/export/js/common_data.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/export/export.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/js/desktop.ini",
+		"/Users/by_sK/Downloads/logoappexport_20161011/export_dot.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/export.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/send.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/js/myscript.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/_setting.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/layout/_main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/css/style.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"Msite_wp_theme/index.php",
+			"",
+			"/Users/by_sK/Works/Msite",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/*",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/_setting.scss",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/*",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/",
+			"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css",
+			"/Applications/XAMPP/xamppfiles/htdocs/hakoeve/",
+			"/Applications/XAMPP/xamppfiles/htdocs/hakoeve/app/Controller",
+			"",
+			"hilo.c",
+			"hilo,",
+			"Search.php,search_request.php",
+			"Toin_fix/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"buffer",
+			"h30",
+			";",
+			"限られた",
+			"出来",
+			"Searching",
+			"出来",
+			"Searching",
+			"出来",
+			"不協和音",
+			"図",
+			"⑥",
+			"⑤",
+			"④",
+			"③",
+			"②",
+			"①",
+			"画像",
+			"図",
+			"enumerate",
+			"minamidaka",
+			"file_path",
+			" th",
+			"th:",
+			"th",
+			"inputbox",
+			"input",
+			"inputsub",
+			"inputForm_sp",
+			"inputf",
+			"imputf",
+			"th",
+			"radioE",
+			"radio",
+			"inputform",
+			"inputbox",
+			"inputform",
+			"inputf",
+			"for",
+			"function remove_menus () {\n//     global $menu;\n//     unset($menu[2]);  // ダッシュボード\n//     unset($menu[4]);  // メニューの線1\n//     unset($menu[5]);  // 投稿\n//     unset($menu[10]); // メディア\n//     unset($menu[15]); // リンク\n//     unset($menu[20]); // ページ\n//     unset($menu[25]); // コメント\n//     unset($menu[59]); // メニューの線2\n//     unset($menu[60]); // テーマ\n//     unset($menu[65]); // プラグイン\n//     unset($menu[70]); // プロフィール\n//     unset($menu[75]); // ツール\n//     unset($menu[80]); // 設定\n//     unset($menu[90]); // メニューの線3\n// }\n// add_action('admin_menu', 'remove_menus');",
+			"print",
+			"printr",
+			"')))].\")\";",
+			"m月d日",
+			"event.html#5",
+			"dthe_post",
+			"src",
+			"生後",
+			"is_home",
+			"selev",
+			"select",
+			"input",
+			"input,",
+			"input",
+			".input",
+			">\n",
+			"chkDate",
+			"htmlT",
+			"imagep",
+			"imagepath",
+			"\n",
+			"logpApp",
+			"get_template_directory_url",
+			"get_template_directory_url();",
+			"images",
+			"get_template_directory",
+			";\n",
+			"HEAD",
+			"<<<<<<< HEAD",
+			"<<<<<<< HEAD\n",
+			"<<<<<<< HEAD",
+			"indexT",
+			"indexTitleText",
+			";\n",
+			"indexTitleText",
+			"indexTitleText\nindexTitleText",
+			"indexTitleText",
+			"logoA",
+			"2016年10月15日に函館駅前にOPENするはこだてみらい館・はこだてキッズプラザの告知サイトです。",
+			"kids_lo",
+			"touristOffice",
+			"line-h",
+			"line-",
+			"button",
+			"トーク",
+			"button",
+			"exmenu_title_kids",
+			"flex",
+			".html",
+			"\"images",
+			">\n",
+			"active",
+			"width",
+			"img",
+			"active",
+			";\n",
+			"0px",
+			"green",
+			"#",
+			"header_logo",
+			"logoApp",
+			"LineAppFramework.prototype.onClickUploadButton",
+			"DotAppFramework.prototype.onClickUploadButton",
+			"upload",
+			"<!DOCTYPE html>",
+			"子供",
+			"函館駅空港",
+			"岩松",
+			"<meta name=\"robots\" rel=\"noindex\">",
+			"\">\n",
+			"ヶ",
+			"upload",
+			"%;\n",
+			"upload",
+			"td",
+			"onclickuploadbutton",
+			"info_access",
+			"back",
+			"/*推奨",
+			"g__fontSize",
+			"g__w",
+			"font-w",
+			"pc__fontSize",
+			"pc__w",
+			"$$pc__w",
+			"$pc__w",
+			"pc__w",
+			"$pc__w"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"でき",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"is_front_page",
+			"get_template_directory_uri",
+			"get_template_directory_uri();",
+			"<?php echo get_template_directory_url(); ?>/images",
+			"",
+			"はこだてみらいプロジェクトは、オドロクチカラを育む施設「はこだてみらい館」「はこだてキッズプラザ」を中心に、函館の街の明るい未来につながるアイデアをみんなで実現するプロジェクトです。",
+			"\"$directory/images",
+			"<!DOCTYPE html>\n<meta name=\"robots\" rel=\"noindex\">",
+			"函館空港",
+			"若松",
+			"か",
+			"access",
+			"pc__fontSize",
+			"pc__w",
+			"g__fontSize",
+			"g__w",
+			"$g__w",
+			"$pc",
+			"$",
+			"$pc__w",
+			"pc__w",
+			"</html>",
+			"soracam_logo_01.png",
+			"logo_01",
+			"'",
+			"est_n",
+			"getSearchResult",
+			".pdf\" target=\"_blank\">",
+			"<a href=\"links.html\">",
+			"<li class=\"nav_h\"><a href=\"greet.html\">学校案内</a></li>",
+			"<a href=\"route.html\"><li>進路の状況</li></a>",
+			"subject.html",
+			"#DDD",
+			"$enji",
+			"\"content new\"",
+			"\"content topic\"",
+			"<a href=#contact><li>Contact</li></a>",
+			"<a href=#about><li>About</li></a>",
+			"<a href=#works><li>Works</li></a>",
+			"whmax",
+			" ",
+			"$s",
+			"<word>UserDir</word>",
+			"ユーザ"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Event.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
