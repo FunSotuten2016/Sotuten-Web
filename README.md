@@ -1,7 +1,6 @@
 # Sotuten-Web
 
-卒展のWebサイトを開発します。
-
+卒展のWebサイトを開発します。現状→　[こちら（Github Page）](https://funsotuten2016.github.io/Sotuten-Web/)
 ---
 **launch: 17.1.13**
 
