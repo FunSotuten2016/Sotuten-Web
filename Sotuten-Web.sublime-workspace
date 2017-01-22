@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"relative"
+			],
+			[
+				"gr",
+				"gradation	(index.html)"
+			],
+			[
 				"key",
 				"keyselected"
 			],
@@ -506,24 +514,33 @@
 			[
 				"y",
 				"y-1"
-			],
-			[
-				"arra",
-				"arraylist	ArrayList"
-			],
-			[
-				"bi",
-				"binarization"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 75,
+				"buffer_size": 449,
+				"line_ending": "Unix",
+				"name": "index.html"
+			}
+		},
+		{
+			"file": "css/layout/_main.sass",
+			"settings":
+			{
+				"buffer_size": 713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/base/_util.sass",
+			"settings":
+			{
+				"buffer_size": 73,
 				"line_ending": "Unix"
 			}
 		}
@@ -535,20 +552,20 @@
 		"selected_items":
 		[
 			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
 				"v",
 				"View In Browser"
 			],
 			[
-				"calc",
-				"Calculate"
-			],
-			[
 				"sass",
 				"Set Syntax: Sass"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"calc",
+				"Calculate"
 			],
 			[
 				"remove",
@@ -760,6 +777,10 @@
 	},
 	"file_history":
 	[
+		"/Users/by_sK/Works/Sotuten-Web/css/style.sass",
+		"/Users/by_sK/Works/Sotuten-Web/css/base/_util.sass",
+		"/Users/by_sK/Works/Sotuten-Web/css/layout/_main.sass",
+		"/Users/by_sK/Works/Sotuten-Web/css/state/_main.sass",
 		"/Users/by_sK/Works/Sotuten-Web/index.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/OCSS/index.html",
 		"/Users/by_sK/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -883,11 +904,7 @@
 		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/export/export.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/js/desktop.ini",
 		"/Users/by_sK/Downloads/logoappexport_20161011/export_dot.html",
-		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/export.php",
-		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/send.php",
-		"/Applications/XAMPP/xamppfiles/htdocs/Msite/js/myscript.js",
-		"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/_setting.scss",
-		"/Applications/XAMPP/xamppfiles/htdocs/MProjectPreSite/css/layout/_main.scss"
+		"/Applications/XAMPP/xamppfiles/htdocs/Msite/logoapp/export.php"
 	],
 	"find":
 	{
@@ -1128,18 +1145,100 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 75,
+						"buffer_size": 449,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								75,
-								75
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "index.html",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/dimmed-ocean.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/layout/_main.sass",
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
 							]
 						],
 						"settings":
@@ -1192,9 +1291,83 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close"
 							],
-							"is_init_dirty_state": false,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"color_scheme": "Packages/User/Color Highlighter/themes/dimmed-ocean.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/base/_util.sass",
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/dimmed-ocean.tmTheme",
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1222,11 +1395,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
