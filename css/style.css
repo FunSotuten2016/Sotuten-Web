@@ -83,12 +83,17 @@ table {
   right: 0;
   margin: 0 auto;
 }
-.main h1 {
+.main .content h1 {
+  color: white;
   font-size: 2.5em;
-  margin: 100px;
+  text-align: center;
+  margin: 100px 0 75px 0;
   padding-bottom: 20px;
   letter-spacing: 0.1em;
   border-bottom: 2px solid white;
+}
+.main .content:first-child h1 {
+  margin-bottom: 100px;
 }
 
 #overview {
@@ -103,8 +108,56 @@ table {
 #exhibition {
   color: white;
 }
-#exhibition h1 {
-  text-align: center;
+#exhibition .exhs:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+#exhibition .exhs .exh {
+  float: left;
+  width: 40%;
+}
+#exhibition .exhs .exh:nth-child(even) {
+  margin-left: 20%;
+}
+#exhibition .exhs .exh h2 {
+  font-size: 1.3em;
+  line-height: 1.6em;
+  padding-left: 5px;
+  border-left: 15px solid white;
+  border-bottom: 1px solid white;
+}
+#exhibition .exhs .exh div {
+  margin: 20px 0;
+}
+#exhibition .exhs .exh .map {
+  width: 100%;
+  height: 22.5vw;
+  max-height: calc(1080px * 0.4 * 9 / 16);
+  background: white;
+  color: black;
+}
+
+#works:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+#works .work {
+  width: 330px;
+  margin-right: 45px;
+  margin-bottom: 45px;
+  float: left;
+  background: rgba(230, 230, 230, 0.8);
+}
+#works .work:nth-child(3n+1) {
+  margin-right: 0;
+}
+
+#thanks .list {
+  width: 100%;
+  height: 50vh;
+  background: rgba(255, 255, 255, 0.5);
 }
 
 nav {
