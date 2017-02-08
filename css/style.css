@@ -51,6 +51,7 @@ table {
   width: 100%;
   text-align: center;
   background-color: #e52d8a;
+  min-width: 1080px;
 }
 #topview img {
   width: 100%;
@@ -61,12 +62,15 @@ table {
   right: 0;
   bottom: calc(50% - (2vw));
   color: white;
-  font-size: 1.3vw;
+  font-size: 1.2vw;
   line-height: 1.4vw;
 }
 
 .main {
   height: 300vh;
+  background-color: LightSlateGrey;
+  background: linear-gradient(#e52d8a, #fee500);
+  min-width: 1080px;
 }
 .main:after {
   content: "";
@@ -74,17 +78,37 @@ table {
   display: block;
 }
 .main .content {
-  width: 80%;
-  float: left;
-  background-color: LightSlateGrey;
-  background: linear-gradient(#e52d8a, #fee500);
-  height: 100%;
+  width: 1080px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
 }
-.main .gradation {
-  width: 20%;
-  float: right;
-  height: 100%;
-  background: linear-gradient(#e52d8a, #fee500);
+.main h1 {
+  font-size: 2.3em;
+  margin: 100px;
+  letter-spacing: 0.1em;
+}
+.main h1:before {
+  content: "-";
+}
+.main h1:after {
+  content: "-";
+}
+
+#overview {
+  color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+#overview p {
+  line-height: 1.8em;
+}
+
+#exhibition {
+  color: white;
+}
+#exhibition h1 {
+  text-align: center;
 }
 
 nav {
