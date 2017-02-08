@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 449,
+				"buffer_size": 444,
 				"line_ending": "Unix",
 				"name": "index.html"
 			}
@@ -532,7 +532,7 @@
 			"file": "css/layout/_main.sass",
 			"settings":
 			{
-				"buffer_size": 713,
+				"buffer_size": 725,
 				"line_ending": "Unix"
 			}
 		},
@@ -1148,15 +1148,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 449,
+						"buffer_size": 444,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								171,
-								171
+								269,
+								243
 							]
 						],
 						"settings":
@@ -1211,7 +1211,11 @@
 								"bh_single_quote_close"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/dimmed-ocean.tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1222,7 +1226,6 @@
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1230,15 +1233,15 @@
 					"file": "css/layout/_main.sass",
 					"settings":
 					{
-						"buffer_size": 713,
+						"buffer_size": 725,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								294,
-								294
+								724,
+								0
 							]
 						],
 						"settings":
@@ -1292,7 +1295,11 @@
 								"bh_single_quote_close"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/dimmed-ocean.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1312,7 +1319,7 @@
 						"selection":
 						[
 							[
-								73,
+								0,
 								73
 							]
 						],
@@ -1367,6 +1374,8 @@
 								"bh_single_quote_close"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/dimmed-ocean.tmTheme",
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
 							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
 						},
 						"translation.x": 0.0,
