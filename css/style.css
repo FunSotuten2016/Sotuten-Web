@@ -51,17 +51,24 @@ table {
   width: 100%;
   text-align: center;
   background-color: #e52d8a;
-  min-width: 1080px;
+  min-width: 1120px;
 }
 #topview img {
   width: 100%;
+}
+#topview p {
+  position: absolute;
+  color: white;
+  font-size: 1em;
+  left: 10%;
+  bottom: 50px;
 }
 
 .main {
   min-height: 300vh;
   background-color: LightSlateGrey;
   background: linear-gradient(#e52d8a, #fee500);
-  min-width: 1120px;
+  min-width: 1080px;
   padding: 0 20px;
 }
 .main:after {
@@ -123,13 +130,24 @@ table {
   border-bottom: 1px solid white;
 }
 #exhibition .exhs .exh div {
-  margin: 20px 0;
+  margin-top: 20px;
 }
 #exhibition .exhs .exh .map {
   width: 100%;
   height: calc(1080px * 0.4 * 9 / 16);
   background: white;
   color: black;
+}
+#exhibition .exhs .exh .text:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+#exhibition .exhs .exh .text .place {
+  float: left;
+}
+#exhibition .exhs .exh .text .date {
+  float: right;
 }
 
 #works:after {

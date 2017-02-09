@@ -3,15 +3,21 @@
   width: 100%
   text-align: center
   background-color: #e52d8a
-  min-width: 1080px
+  min-width: 1120px//1080+20*2
   img
     width: 100%
+  p
+    position: absolute
+    color: white
+    font-size: 1em
+    left: 10%
+    bottom: 50px
 
 .main
   min-height: 300vh
   background-color: LightSlateGrey
   background: linear-gradient(#e52d8a, #fee500)
-  min-width: 1120px//1080+20*2
+  min-width: 1080px
   padding: 0 20px
   +clearfix
   .content
@@ -56,12 +62,18 @@
         border-left: 15px solid white
         border-bottom: 1px solid white
       div
-        margin: 20px 0
+        margin-top: 20px
       .map
         width: 100%
         height: calc(1080px * 0.4 * 9 / 16)//aspect16:9(40/16*9)
         background: white
         color: black
+      .text
+        +clearfix
+        .place
+          float: left
+        .date
+          float: right
 
 #works
   +clearfix
