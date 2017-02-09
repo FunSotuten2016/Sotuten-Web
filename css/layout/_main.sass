@@ -8,10 +8,11 @@
     width: 100%
 
 .main
-  height: 300vh
+  min-height: 300vh
   background-color: LightSlateGrey
   background: linear-gradient(#e52d8a, #fee500)
   min-width: 1080px
+  padding-bottom: 100px
   +clearfix
   .content
     width: 1080px
@@ -59,8 +60,7 @@
         margin: 20px 0
       .map
         width: 100%
-        height: 22.5vw //aspect16:9(40/16*9)
-        max-height: calc(1080px * 0.4 * 9 / 16)
+        height: calc(1080px * 0.4 * 9 / 16)//aspect16:9(40/16*9)
         background: white
         color: black
 
